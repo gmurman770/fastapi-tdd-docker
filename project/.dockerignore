@@ -1,6 +1,7 @@
+.dockerignore
 Pipfile*
-.vscode
 __pycache__
-env
+.vscode
+Dockerfile*
 .coverage
 htmlcov
